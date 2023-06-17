@@ -1,11 +1,11 @@
-About r-convertr
-================
+About r-convertr-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-convertr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/SantanderMetGroup/climate4R
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-convertr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements different variable derivations and unit transformations exploiting the UDUNITS-2 capabilitites for the climate4R CDM (<http://meteo.unican.es/climate4R>).
 
